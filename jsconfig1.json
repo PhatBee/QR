@@ -1,0 +1,35 @@
+{
+  "code": "00",
+  "desc": "Get Bank list successful! Total 63 banks",
+  "data": [
+    {
+      "id": 17,
+      "name": "Ngân hàng TMCP Công thương Việt Nam",
+      "code": "ICB",
+      "bin": "970415",
+      "shortName": "VietinBank",
+      "logo": "https://api.vietqr.io/img/ICB.png",
+      "transferSupported": 1,
+      "lookupSupported": 1,
+      "short_name": "VietinBank",
+      "support": 3,
+      "isTransfer": 1,
+      "swift_code": "ICBVVNVX"
+    },
+    {
+      "id": 43,
+      "name": "Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "code": "VCB",
+      "bin": "970436",
+      "shortName": "Vietcombank",
+      "logo": "https://api.vietqr.io/img/VCB.png",
+      "transferSupported": 1,
+      "lookupSupported": 1,
+      "short_name": "Vietcombank",
+      "support": 3,
+      "isTransfer": 1,
+      "swift_code": "BFTVVNVX"
+    }
+  ]
+}
+
